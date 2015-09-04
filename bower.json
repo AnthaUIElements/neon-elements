@@ -1,13 +1,13 @@
 {
   "name": "neon-elements",
   "version": "1.0.0",
-  "homepage": "https://github.com/PolymerElements/neon-elements",
+  "homepage": "https://github.com/AnthaUIElements/neon-elements",
   "authors": [
     "The Polymer Authors"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/neon-elements.git"
+    "url": "git://github.com/AnthaUIElements/neon-elements.git"
   },
   "description": "Neon elements implement special effects.",
   "keywords": [
@@ -24,6 +24,6 @@
     "tests"
   ],
   "dependencies": {
-    "neon-animation": "PolymerElements/neon-animation#^1.0.0"
+    "neon-animation": "AnthaUIElements/neon-animation#^1.0.0"
   }
 }
